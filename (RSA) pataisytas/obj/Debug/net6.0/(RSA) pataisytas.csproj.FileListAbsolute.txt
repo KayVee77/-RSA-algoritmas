@@ -1,0 +1,15 @@
+C:\Users\kristupas\Desktop\(RSA) pataisytas\obj\Debug\net6.0\(RSA) pataisytas.csproj.AssemblyReference.cache
+C:\Users\kristupas\Desktop\(RSA) pataisytas\obj\Debug\net6.0\(RSA) pataisytas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kristupas\Desktop\(RSA) pataisytas\obj\Debug\net6.0\(RSA) pataisytas.AssemblyInfoInputs.cache
+C:\Users\kristupas\Desktop\(RSA) pataisytas\obj\Debug\net6.0\(RSA) pataisytas.AssemblyInfo.cs
+C:\Users\kristupas\Desktop\(RSA) pataisytas\obj\Debug\net6.0\(RSA) pataisytas.csproj.CoreCompileInputs.cache
+C:\Users\kristupas\Desktop\(RSA) pataisytas\bin\Debug\net6.0\(RSA) pataisytas.exe
+C:\Users\kristupas\Desktop\(RSA) pataisytas\bin\Debug\net6.0\(RSA) pataisytas.deps.json
+C:\Users\kristupas\Desktop\(RSA) pataisytas\bin\Debug\net6.0\(RSA) pataisytas.runtimeconfig.json
+C:\Users\kristupas\Desktop\(RSA) pataisytas\bin\Debug\net6.0\(RSA) pataisytas.dll
+C:\Users\kristupas\Desktop\(RSA) pataisytas\bin\Debug\net6.0\(RSA) pataisytas.pdb
+C:\Users\kristupas\Desktop\(RSA) pataisytas\obj\Debug\net6.0\(RSA) pataisytas.dll
+C:\Users\kristupas\Desktop\(RSA) pataisytas\obj\Debug\net6.0\refint\(RSA) pataisytas.dll
+C:\Users\kristupas\Desktop\(RSA) pataisytas\obj\Debug\net6.0\(RSA) pataisytas.pdb
+C:\Users\kristupas\Desktop\(RSA) pataisytas\obj\Debug\net6.0\(RSA) pataisytas.genruntimeconfig.cache
+C:\Users\kristupas\Desktop\(RSA) pataisytas\obj\Debug\net6.0\ref\(RSA) pataisytas.dll
